@@ -1,0 +1,1 @@
+print("Bootcamp22 ucun yazildi")
